@@ -14,8 +14,6 @@ export class HomePage implements OnInit {
 
   }
 
-  closeMenu(){
-    this.menu.close();
-  };
+
 
 }
